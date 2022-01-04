@@ -1,7 +1,7 @@
 # :two_hearts: Health Care Chat-Bot 🤖
-Project for the 6th Semester Subject -> Machine Learning
+A Website about general medicines, symptoms, precautions and cures. 
 
-Health Care Chat-Bot is a Healthcare Domain Chatbot to simulate the predictions of a General Physician.
+Health Care Chat-Bot is a answerable bot about which medicine is best for their illness and that caused they have to go to the doctor even for a general illness like fever, tiredness and headache. But it can be easy if they can get their cure online by giving the details of thier symptoms. 
 
 ## :page_with_curl: Brief
 Through chatbots one can communicate with text or voice interface and get reply through artificial intelligence
