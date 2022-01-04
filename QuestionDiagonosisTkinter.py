@@ -79,7 +79,7 @@ features = cols
 # Implementing the Visual Tree
 from sklearn.tree import _tree
 
-# Method to simulate the working of a Chatbot by extracting and formulating questions
+# Method to simulate the working of a Chatbot by extracting and formulating question
 def print_disease(node):
         #print(node)
         node = node[0]
