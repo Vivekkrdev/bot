@@ -10,7 +10,7 @@ import pandas as pd
 training_dataset = pd.read_csv('Training.csv')
 test_dataset = pd.read_csv('Testing.csv')
 
-# Slicing and Dicing the dataset to separate features from predictions
+# Slicing and Dicing the dataset to separatew feature from predictions
 X = training_dataset.iloc[:, 0:132].values
 #print(X)
 y = training_dataset.iloc[:, -1].values
