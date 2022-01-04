@@ -144,7 +144,7 @@ def user_not_found():
     Button(user_not_found_screen, text="OK", command=delete_user_not_found_screen).pack()
 
 
-# Deleting popups
+# Deleting popup
 
 def delete_login_success():
     login_success_screen.destroy()
